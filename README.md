@@ -1,1 +1,1 @@
-another readme for 0x03-git
+I am an ALX student, i al learning software engineering.
